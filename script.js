@@ -6,7 +6,7 @@ var ocupacion = document.querySelectorAll("datos-personales") [1];
 
 var tarjeta = document.querySelector("perfil-card");
 
-tarjeta.addEventListener ("cliclk", function() {
+tarjeta.addEventListener ("cliclk", function) {
 
     if (masculino) {
 
